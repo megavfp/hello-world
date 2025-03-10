@@ -7,3 +7,6 @@ This repository is built step by step in the tutorial.
 pronto todo en español
 
 ahora otra actualizacion con pull
+ 
+
+otra linea para local push
